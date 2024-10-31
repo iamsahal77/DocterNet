@@ -1,8 +1,9 @@
-import React from 'react'
 
 const Docters = () => {
   return (
-    <div></div>
+    <div>
+        <h1>Docters</h1>
+    </div>
   )
 }
 
